@@ -1,0 +1,20 @@
+.container{
+        border: 2px solid;
+        border-radius: 5px;
+        margin-top: 3rem;
+        text-align: center;
+}
+
+.box_colorpick{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin: 2rem 0rem;
+        border: 2px solid;
+        border-radius: 5px;
+    
+}
+
+.box_colorpick button{
+    margin:1rem;
+}
